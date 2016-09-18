@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #E8744F;
+    color: #F26739;
 }
 
 h1,
@@ -63,15 +63,15 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #E8744F;
+    background-color: #F26739;
 }
 
 hr.star-primary {
-    border-color: #2c3e50;
+    border-color: #000000;
 }
 
 hr.star-primary:after {
-    color: #2c3e50;
+    color: #000000;
     background-color: #fff;
 }
 
@@ -82,7 +82,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #E8744F;
+    background: #F26739;
 }
 
 header .container {
@@ -181,7 +181,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #E8744F;
+    background: #F26739;
 }
 
 @media(max-width:767px) {
@@ -211,7 +211,7 @@ section.success {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba(24,188,156,.9);
+    background: rgba(242,103,57,.9);
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
@@ -265,7 +265,7 @@ section.success {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #E8744F;
+    color: #F26739;
     background: #fff;
 }
 
@@ -318,7 +318,7 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #E8744F;
+    color: #F26739;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -335,7 +335,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #2c3e50;
+    background-color: #000000;
 }
 
 footer .footer-col {
@@ -344,7 +344,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #233140;
+    background-color: #000000;
 }
 
 .btn-social {
@@ -428,7 +428,7 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #2c3e50;
+    background-color: #000000;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -438,7 +438,7 @@ footer .footer-below {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #2c3e50;
+    background-color: #000000;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
